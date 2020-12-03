@@ -1,0 +1,13 @@
+
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ãáâ
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô÷íÛùÿÿÿÿ8âŞ„ºß.
+Y
+java:S1854"<Remove this useless assignment to local variable "quantity".(¢³õ8ƒ„ö¹ß.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦œ¿öüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…Ï³”ÿÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(®¤ÀZ8£Éõ¹ß.
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÃºŞËùÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ò£Êœüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Èè Åùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã‰õóúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»«Õ¬
